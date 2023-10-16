@@ -1,0 +1,168 @@
+.section2 h3 {
+
+    color: #000;
+
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.div-section2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 42px;
+
+    margin-top: 16px;
+    margin-bottom: 16px;
+   
+}
+
+.canal-imagem {
+
+    border-radius: 30px;
+    position: relative;
+    right: .6rem;
+}
+
+.dio {
+    position: relative;
+    right: 2rem;
+    color: #000;
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+
+
+}
+
+.dio span {
+
+
+    color: #515151;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.icones-section2 {
+    display: inline-flex;
+    width: 680px;
+    height: 40px;
+    gap: 34px;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+
+.butescreva {
+
+    width: 159px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: #C00;
+    color: #FFF;
+    border: none;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.div-gostei h3 {
+    display: inline-flex;
+    position: relative;
+    bottom: .2rem;
+    margin-left: 8px;
+    position: relative;
+    color: #000;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.div-naogostei h3 {
+
+    display: inline-flex;
+    position: relative;
+    bottom: .2rem;
+    margin-left: 8px;
+    position: relative;
+    color: #000;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.compartilhar h3 {
+
+    display: inline-flex;
+    position: relative;
+    bottom: .2rem;
+    margin-left: 8px;
+    position: relative;
+    color: #000;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
+
+.icodowloand h3 {
+    display: inline-flex;
+    position: relative;
+    bottom: .2rem;
+    margin-left: 8px;
+    position: relative;
+    color: #000;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
+
+.text-visualizacoes {
+    color: #000;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.texto-explicacao {
+    width: 510px;
+    color: #515151;
+
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 20px;
+
+
+}

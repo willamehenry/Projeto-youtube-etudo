@@ -1,0 +1,70 @@
+aside {
+
+    display: flex;
+    flex-direction: row;
+
+
+    margin-left: 16rem;
+    width: 100%;
+}
+
+.imagem-video {
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+
+
+}
+
+.imagem-video a img {
+
+    width: 180px;
+    height: 110px;
+
+}
+
+.text-do-video {
+
+    width: 296px;
+
+    color: #000;
+
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+
+}
+
+.text-do-video h1 {
+
+    margin: 0 0 8px 16px;
+}
+
+
+.text-do-video p {
+    margin: 8px 0px 8px 16px;
+    color: #515151;
+
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text-do-video span {
+    margin: 8px 0px 8px 16px;
+
+    color: #515151;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}

@@ -1,0 +1,62 @@
+header {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 0px 50px 0px;
+    height: 50px;
+    width: auto;
+    
+
+}
+
+.divheader-esquerdo {
+
+    display: inline-flex;
+
+    justify-content: flex-start;
+    align-items: center;
+    padding-right: 10px;
+    gap: 24px;
+
+}
+
+.divheader-central {
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-right: 6px;
+    
+}
+.divheader-central .pesquisar {
+
+    border: 2px solid rgb(211, 211, 211);
+    width: 390px;
+    height: 32px;
+    padding-left: 1rem;
+    margin-left: 1rem;
+}
+
+.divheader-central .logo-pesquisar {
+    border: 2px solid rgb(211, 211, 211);
+
+    width: 32px;
+}
+
+.minha-foto {
+    width: 30px;
+    border-radius: 20px;
+
+}
+
+.divheader-direito {
+
+    display: inline-flex;
+
+    justify-content: end;
+    align-items: center;
+    margin-left: auto;
+    padding-right: 10px;
+    gap: 24px;
+
+}
