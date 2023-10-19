@@ -1,18 +1,65 @@
 .section1 {
-    display:flex;
+    display: flex;
     flex-direction: column;
-    
+
     gap: 16px;
     margin: 20px 20px 20px 70px;
     Width: 1082px;
     Height: 946px;
 
-
+    border: 3px solid rebeccapurple;
 
 }
 
-.iframe-central{
-border-radius: 20px;
-width: 952px;
-height: 50rem;
+.iframe-central {
+    margin: 5px;
+    border: 5px solid red;
+    border-radius: 20px;
+    width: 1022px;
+    height: 50rem;
+
+}
+
+@media only screen and (max-width: 568px) {
+    body {
+        
+        width: 20px;
+        height: 20px;
+        
+
+
+
+    }
+    .section1{
+        width: 750px;
+        height: 550px;
+
+    }
+    .section2 {
+        width: 750px;
+        height: 550px;
+
+    }
+
+    .iframe-central {
+
+        width: 350px;
+        height: 250px;
+        
+
+    }
+    header {
+        
+        
+        width: 30px;
+        
+    }
+
+
+}
+aside {
+
+   
+   min-width: 360px;
+
 }
